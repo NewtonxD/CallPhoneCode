@@ -11,14 +11,12 @@ from pyngrok import ngrok
 #------------------------------------------------------------------------------
 #    Global Variables - API KEYs
 #------------------------------------------------------------------------------
-ACCOUNT_SID = 'ACbfbcf154e4cc0b74ee72d7e84b32e56f'
-AUTH_TOKEN = 'af3d99dfb8b508e9ba9129e150f32c84'
+ACCOUNT_SID = ''
+AUTH_TOKEN = ''
 TWILIO_NUMBER = '+17179429619'
-TWILIO_PHONE_NUMBER_SID="PNcb50ab8030003daa7f4f26a1d4c65d30"
+TWILIO_PHONE_NUMBER_SID=""
 
-# 7400607399:AAHypx834th4R7IjtfriTlRP8mk-jbw1fIY
-# 7308092764:AAG73i2aZLzc-NzmKjWP4PKjqaTkptwQb6g
-TELEGRAM_TOKEN = '7308092764:AAG73i2aZLzc-NzmKjWP4PKjqaTkptwQb6g'
+TELEGRAM_TOKEN = ''
 
 FLASK_PORT = 4040
 FLASK_SERVER_LINK =f'http://localhost:{FLASK_PORT}'
